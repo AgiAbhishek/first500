@@ -1,0 +1,6 @@
+runtime.txt
+requirements.txt
+app/
+data/documents/
+frontend/
+*.py
