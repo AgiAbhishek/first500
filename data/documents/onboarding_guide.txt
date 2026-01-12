@@ -1,0 +1,246 @@
+# New Employee Onboarding Guide
+
+## Welcome to the Team!
+
+Congratulations on joining our company! This guide will help you navigate your first weeks and get you up to speed with our processes, tools, and culture.
+
+## First Day
+
+### Morning (9 AM - 12 PM)
+- **9:00 AM**: Arrive at reception, get your badge and welcome packet
+- **9:30 AM**: Meet with HR for paperwork and benefits enrollment
+- **10:30 AM**: IT setup - receive laptop, phone, and access credentials
+- **11:00 AM**: Office tour and introductions to the team
+- **11:45 AM**: Security and compliance training
+
+### Afternoon (1 PM - 5 PM)
+- **1:00 PM**: Lunch with your team
+- **2:00 PM**: Meet with your manager for goal setting
+- **3:00 PM**: Workstation setup and tool configuration
+- **4:00 PM**: Review first week schedule and objectives
+- **4:30 PM**: Q&A session with your onboarding buddy
+
+## First Week Checklist
+
+### IT & Tools Setup
+- [ ] Set up email and calendar
+- [ ] Install required software (Slack, Teams, IDE, VPN)
+- [ ] Configure development environment
+- [ ] Access company repository (GitHub/GitLab)
+- [ ] Join team Slack channels
+- [ ] Set up two-factor authentication
+- [ ] Bookmark important internal resources
+
+### HR & Administration
+- [ ] Complete I-9 and tax forms
+- [ ] Enroll in health insurance (if applicable)
+- [ ] Set up 401(k) contributions
+- [ ] Choose direct deposit
+- [ ] Upload profile photo to directory
+- [ ] Emergency contact information
+- [ ] Sign company handbook acknowledgment
+
+### Learning & Training
+- [ ] Complete mandatory compliance training
+- [ ] Review company policies and procedures
+- [ ] Study product documentation
+- [ ] Shadow team members
+- [ ] Attend team meetings as observer
+- [ ] Read technical architecture docs
+- [ ] Complete security awareness training
+
+## Key People to Know
+
+### Your Onboarding Buddy
+- Assigned on day one
+- Your go-to person for any questions
+- Will have regular check-ins during first month
+- Can introduce you to others in the company
+
+### Your Manager
+- Sets your goals and priorities
+- Conducts weekly 1:1 meetings
+- Provides feedback and support
+- Handles performance reviews
+
+### HR Contact
+- Benefits questions
+- Policy clarifications
+- Personal issues
+- Career development
+
+### IT Support
+- Technical issues
+- Software requests
+- Access problems
+- Equipment needs
+
+## Important Tools & Systems
+
+### Communication
+- **Email**: Outlook/Gmail for formal communication
+- **Slack**: Daily team communication and quick questions
+- **Teams**: Video meetings and screen sharing
+- **Zoom**: External client meetings
+
+### Development
+- **GitHub**: Code repository and version control
+- **Jira**: Project management and issue tracking
+- **Confluence**: Documentation and wiki
+- **VS Code**: Recommended IDE
+
+### Productivity
+- **Google Workspace**: Docs, Sheets, Slides
+- **CloudSync Pro**: File sharing and collaboration
+- **Miro**: Virtual whiteboarding
+- **Figma**: Design collaboration
+
+## Company Culture
+
+### Our Values
+1. **Customer First**: Always prioritize customer needs
+2. **Innovation**: Encourage new ideas and experimentation
+3. **Collaboration**: Work together, help each other succeed
+4. **Integrity**: Be honest, transparent, and ethical
+5. **Excellence**: Strive for high-quality work
+
+### Communication Norms
+- Default to async communication when possible
+- Use Slack for quick questions, email for formal requests
+- Response time expectations: 4 hours during work hours
+- Set status in Slack when unavailable
+- Camera on for team meetings
+
+### Meeting Culture
+- All meetings have agendas
+- Start and end on time
+- Action items documented
+- Decline meetings that don't need you
+- "No meeting Fridays" for focus time
+
+## Learning Resources
+
+### Internal
+- Company Wiki (intranet.company.com)
+- Product Documentation (docs.company.com)
+- Engineering Blog (blog.company.com)
+- Brown Bag Lunch Sessions (Fridays)
+- Mentorship Program (sign up after 3 months)
+
+### External
+- $2,000 annual learning budget
+- LinkedIn Learning access
+- Conference attendance (one per year)
+- Online course subscriptions
+- Book reimbursement program
+
+## Your First 30-60-90 Days
+
+### Days 1-30: Learning Phase
+**Goals**:
+- Understand company culture and values
+- Learn product and technology stack
+- Build relationships with team
+- Complete small, well-defined tasks
+- Ask lots of questions
+
+**Success Metrics**:
+- Complete all onboarding training
+- Ship first small contribution
+- Understand team's sprint process
+- Can navigate codebase independently
+
+### Days 31-60: Contributing Phase
+**Goals**:
+- Take on larger tasks
+- Participate in code reviews
+- Contribute to team discussions
+- Identify improvement opportunities
+- Build cross-team relationships
+
+**Success Metrics**:
+- Deliver feature independently
+- Provide value in sprint planning
+- Mentor newer team members
+- Understand broader product context
+
+### Days 61-90: Ownership Phase
+**Goals**:
+- Own a project or feature area
+- Mentor other developers
+- Propose improvements
+- Demonstrate company values
+- Think strategically about work
+
+**Success Metrics**:
+- Lead a significant project
+- Contribute to technical decisions
+- Improve team processes
+- Ready for full performance review
+
+## Benefits & Perks
+
+### Health & Wellness
+- Comprehensive health insurance
+- Dental and vision coverage
+- Mental health support (free counseling sessions)
+- Gym membership reimbursement ($50/month)
+- Annual health checkup
+
+### Work-Life Balance
+- Flexible work hours
+- Work from home 2 days/week
+- 15 days PTO + 10 holidays
+- Parental leave (see policy doc)
+- Sabbatical (after 5 years)
+
+### Professional Development
+- $2,000 learning budget
+- Conference attendance
+- Certification programs
+- Internal training sessions
+- Career coaching
+
+### Office Perks
+- Free snacks and beverages
+- Catered lunch on Wednesdays
+- Game room and relaxation area
+- Standing desks available
+- Latest MacBook Pro or Windows laptop
+
+## Common Questions
+
+### Q: When will I receive my equipment?
+A: Laptop and phone issued on first day. Additional equipment requested through IT portal.
+
+### Q: How do I submit expenses?
+A: Use Expensify app. Upload receipts and submit for approval. Reimbursement within 2 weeks.
+
+### Q: What's the dress code?
+A: Business casual. Jeans okay. Professional for client meetings. Casual Fridays.
+
+### Q: How does PTO work?
+A: Request through BambooHR. Get manager approval 2 weeks in advance. Check team calendar for conflicts.
+
+### Q: When is payday?
+A: Bi-weekly on Fridays. First paycheck may take 2-3 weeks.
+
+## Emergency Contacts
+
+- **Building Security**: x5911
+- **IT Help Desk**: x5400
+- **HR**: x5200
+- **Facilities**: x5300
+- **After-hours emergency**: 1-800-EMERGENCY
+
+## Feedback & Check-ins
+
+### Week 1: Daily check-ins with buddy
+### Week 2-4: Weekly 1:1 with manager
+### Day 30: First month review
+### Day 60: Mid-point check-in
+### Day 90: Full performance review
+
+Remember: There's no such thing as a stupid question during onboarding. We want you to succeed!
+
+Welcome aboard! 🎉

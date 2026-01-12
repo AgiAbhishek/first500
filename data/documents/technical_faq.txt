@@ -1,0 +1,81 @@
+# Technical FAQ
+
+## Getting Started
+
+### Q: How do I access the company VPN?
+A: Download the Cisco AnyConnect client from the IT portal. Use your company email and network password to connect. If you experience issues, contact IT support at it-support@company.com.
+
+### Q: What development tools are approved for use?
+A: The approved IDE list includes VS Code, IntelliJ IDEA, PyCharm, and Eclipse. For version control, we use Git with GitHub Enterprise. Docker Desktop is approved for containerization.
+
+### Q: How do I request new software or tools?
+A: Submit a request through the IT Service Portal. Include justification and cost estimate. Approval typically takes 3-5 business days.
+
+## Development Practices
+
+### Q: What is our branching strategy?
+A: We follow GitFlow:
+- main: production-ready code
+- develop: integration branch
+- feature/*: feature branches
+- hotfix/*: urgent production fixes
+Always create pull requests for code review before merging.
+
+### Q: What are the code review requirements?
+A: All code must be reviewed by at least one senior developer before merging. Reviews should check for:
+- Code quality and best practices
+- Test coverage (minimum 80%)
+- Documentation
+- Security vulnerabilities
+
+### Q: How often should we deploy?
+A: We follow continuous deployment:
+- Development: automatic on merge to develop
+- Staging: daily at 2 PM
+- Production: weekly on Thursdays, or as needed for hotfixes
+
+## Infrastructure
+
+### Q: Where are our applications hosted?
+A: Production applications run on Azure App Service. Databases use Azure SQL Database. We use Azure Blob Storage for file storage and Azure Redis Cache for caching.
+
+### Q: How do I access production logs?
+A: Use Azure Application Insights for application logs. Access requires production read permissions. Request access through the IT portal.
+
+### Q: What is our backup policy?
+A: Automated daily backups at 2 AM UTC. Retention: 30 days for databases, 90 days for critical data. Disaster recovery drills conducted quarterly.
+
+## Security
+
+### Q: How should I store API keys and secrets?
+A: Never commit secrets to Git. Use Azure Key Vault for production secrets. For local development, use .env files (listed in .gitignore).
+
+### Q: What is the password policy?
+A: Passwords must be:
+- At least 12 characters
+- Include uppercase, lowercase, numbers, and symbols
+- Changed every 90 days
+- No reuse of last 5 passwords
+Multi-factor authentication is mandatory.
+
+### Q: How do I report a security vulnerability?
+A: Email security@company.com immediately. Do not discuss publicly. Include:
+- Description of the vulnerability
+- Steps to reproduce
+- Potential impact
+- Suggested fix (if any)
+
+## Support
+
+### Q: Who do I contact for different issues?
+A: 
+- IT/Infrastructure: it-support@company.com
+- Development/Code: dev-team@company.com
+- Security: security@company.com
+- HR/Policies: hr@company.com
+
+### Q: What are the support hours?
+A: IT Support available:
+- Monday-Friday: 8 AM - 8 PM
+- Weekend emergencies: On-call rotation
+Average response time: 2 hours for critical, 24 hours for normal priority.

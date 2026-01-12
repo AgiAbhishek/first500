@@ -1,0 +1,130 @@
+# Product Guide - CloudSync Pro
+
+## Overview
+
+CloudSync Pro is our enterprise file synchronization and collaboration platform. It enables teams to securely share, sync, and collaborate on files across devices and locations.
+
+## Key Features
+
+### File Synchronization
+- Real-time sync across all devices
+- Selective sync: choose which folders to sync locally
+- Offline access: work on files without internet
+- Automatic conflict resolution
+- Version history: restore previous versions up to 90 days
+
+### Collaboration
+- Real-time document co-editing
+- Comments and annotations
+- @mentions to notify team members
+- Activity feed to track changes
+- Integration with Microsoft Office and Google Workspace
+
+### Security
+- End-to-end encryption for files in transit and at rest
+- Two-factor authentication
+- Granular permission controls (view, edit, admin)
+- Audit logs for compliance
+- Remote wipe for lost devices
+
+### Storage
+- Business plan: 1TB per user
+- Enterprise plan: Unlimited storage
+- Large file support: up to 50GB per file
+- Smart storage management with auto-cleanup
+
+## Getting Started
+
+### Installation
+1. Download CloudSync Pro from the company portal
+2. Sign in with your company email
+3. Choose folders to sync
+4. Start uploading and syncing files
+
+### Creating a Shared Folder
+1. Right-click any folder
+2. Select "Share"
+3. Enter email addresses or team names
+4. Set permissions (view/edit)
+5. Click "Send Invitation"
+
+### Collaboration Best Practices
+- Use descriptive folder names
+- Organize files by project or team
+- Set appropriate permissions
+- Use version history for important documents
+- Regular cleanup of old files
+
+## Advanced Features
+
+### Smart Search
+- Search across all files and content
+- Filter by file type, date, owner
+- Search within document content
+- Save frequently used searches
+
+### File Requests
+- Request files from anyone via email
+- No account required for uploaders
+- Automatically organized in designated folder
+- Expiration dates for requests
+
+### Workflow Automation
+- Auto-tag files based on rules
+- Automated file organization
+- Scheduled reports
+- Integration with Zapier and Power Automate
+
+## Pricing Plans
+
+### Business ($15/user/month)
+- 1TB storage per user
+- Basic collaboration features
+- Email support
+- 30-day version history
+
+### Enterprise ($30/user/month)
+- Unlimited storage
+- Advanced security features
+- 24/7 priority support
+- 90-day version history
+- Custom branding
+- Advanced admin controls
+
+## Troubleshooting
+
+### Sync Issues
+Problem: Files not syncing
+Solutions:
+- Check internet connection
+- Restart the CloudSync app
+- Check available disk space
+- Verify file size under 50GB limit
+
+### Access Issues
+Problem: Cannot access shared folder
+Solutions:
+- Verify invitation was accepted
+- Check permissions with folder owner
+- Ensure you're signed in with correct account
+- Clear cache and re-login
+
+## Support
+
+- Documentation: docs.cloudsync.com
+- Email: support@cloudsync.com
+- Phone: 1-800-CLOUD-99
+- Live chat: Available 24/7 in app
+- Community forum: community.cloudsync.com
+
+## Mobile App
+
+Available on:
+- iOS (requires iOS 14+)
+- Android (requires Android 10+)
+
+Mobile-specific features:
+- Automatic photo upload
+- Offline favorites
+- Share files via mobile
+- Scan documents to PDF

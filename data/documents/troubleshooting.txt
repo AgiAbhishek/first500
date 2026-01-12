@@ -1,0 +1,199 @@
+# Troubleshooting Guide
+
+## Common Application Issues
+
+### Issue: Application won't start
+**Symptoms**: App crashes on launch, blank screen, error messages
+
+**Solutions**:
+1. Clear application cache:
+   - Windows: Delete files in %APPDATA%\CloudSync\Cache
+   - Mac: Delete ~/Library/Application Support/CloudSync/Cache
+   
+2. Reinstall the application:
+   - Uninstall completely
+   - Delete leftover folders
+   - Download latest version
+   - Reinstall
+
+3. Check system requirements:
+   - Windows 10 or higher
+   - macOS 11 or higher
+   - 4GB RAM minimum
+   - 500MB free disk space
+
+4. Disable conflicting software:
+   - Antivirus may block app
+   - VPN can interfere with sync
+   - Firewall rules may need adjustment
+
+### Issue: Slow sync performance
+**Symptoms**: Files taking long time to upload/download
+
+**Solutions**:
+1. Check bandwidth usage:
+   - Close bandwidth-intensive applications
+   - Limit sync speed in settings (Settings > Network > Bandwidth)
+   
+2. Optimize sync settings:
+   - Enable selective sync for large folders
+   - Schedule syncs during off-peak hours
+   - Reduce number of files being synced simultaneously
+
+3. Network troubleshooting:
+   - Test internet speed (minimum 5 Mbps recommended)
+   - Try wired connection instead of WiFi
+   - Contact IT if VPN is causing issues
+
+### Issue: Login failures
+**Symptoms**: Cannot sign in, authentication errors
+
+**Solutions**:
+1. Verify credentials:
+   - Ensure correct email and password
+   - Check CAPS LOCK is off
+   - Reset password if forgotten
+
+2. Clear saved credentials:
+   - Remove saved login from browser/app
+   - Clear cookies and cache
+   - Try incognito/private mode
+
+3. Two-factor authentication issues:
+   - Verify time sync on device
+   - Try backup codes
+   - Contact IT to reset 2FA
+
+## Sync-Specific Problems
+
+### Issue: Sync conflicts
+**Symptoms**: "Conflicted copy" files appearing
+
+**Explanation**: Occurs when same file edited on multiple devices while offline
+
+**Solutions**:
+1. Manual resolution:
+   - Review both versions
+   - Keep the correct version
+   - Delete conflicted copy
+   
+2. Prevention:
+   - Always sync before editing
+   - Use real-time collaboration features
+   - Communicate with team about file edits
+
+### Issue: Files not appearing
+**Symptoms**: Uploaded files don't show on other devices
+
+**Solutions**:
+1. Force sync:
+   - Click sync icon
+   - Wait for completion
+   - Check sync status indicator
+
+2. Verify selective sync:
+   - Ensure folder is selected for sync
+   - Check excluded files list
+   - Review storage quota
+
+3. Check file size and type:
+   - Maximum 50GB per file
+   - Some file types may be blocked
+   - Verify file isn't in temporary folder
+
+## Permission Issues
+
+### Issue: "Access Denied" errors
+**Symptoms**: Cannot open, edit, or delete files
+
+**Solutions**:
+1. Check your permission level:
+   - View only: Can only read files
+   - Edit: Can modify files
+   - Admin: Full control
+   
+2. Request higher permissions:
+   - Contact folder owner
+   - Explain why access needed
+   - Specify required permission level
+
+3. Verify account status:
+   - Ensure account is active
+   - Check if sharing link expired
+   - Confirm not removed from folder
+
+## Database and Storage
+
+### Issue: Running out of storage
+**Symptoms**: Cannot upload new files, storage warnings
+
+**Solutions**:
+1. Free up space:
+   - Delete old/unnecessary files
+   - Move files to archive
+   - Empty trash/recycle bin
+   - Remove duplicate files
+
+2. Optimize storage:
+   - Enable selective sync
+   - Use online-only files
+   - Compress large files before upload
+   - Review largest files (use storage analyzer)
+
+3. Upgrade plan:
+   - Contact admin for quota increase
+   - Consider Enterprise plan for unlimited storage
+
+### Issue: Version history not working
+**Symptoms**: Cannot restore previous versions
+
+**Solutions**:
+1. Check retention period:
+   - Business: 30 days
+   - Enterprise: 90 days
+   - Files deleted beyond retention cannot be recovered
+
+2. Verify version history is enabled:
+   - Admin may have disabled feature
+   - Check folder settings
+   - Ensure not using external storage
+
+## Performance Optimization
+
+### Best Practices
+1. Regular maintenance:
+   - Clear cache weekly
+   - Update app to latest version
+   - Restart app daily for best performance
+
+2. Optimize file structure:
+   - Keep folder depth under 5 levels
+   - Limit files per folder to under 10,000
+   - Use meaningful file names
+
+3. Monitor resource usage:
+   - Check CPU and memory usage
+   - Adjust sync schedule if high load
+   - Disable real-time sync for large folders
+
+## Getting Help
+
+### Before Contacting Support
+- Note exact error messages
+- Take screenshots
+- Try basic troubleshooting steps
+- Check system logs
+
+### Support Channels
+- Email: support@company.com (24h response)
+- Chat: Available in app (immediate)
+- Phone: 1-800-HELP-NOW (M-F 8AM-8PM)
+- Emergency: On-call rotation for critical issues
+
+### Information to Provide
+- Operating system and version
+- App version
+- Steps to reproduce issue
+- Error messages or codes
+- When issue started
+- Recent changes to system
