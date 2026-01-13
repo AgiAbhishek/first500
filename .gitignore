@@ -56,3 +56,7 @@ logs/
 
 # Azure
 .azure/
+deployment/azure/deployment-info.txt
+
+# Deployment files (Heroku-specific, not needed for Azure)
+Procfile
